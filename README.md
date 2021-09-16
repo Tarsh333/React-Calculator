@@ -1,17 +1,11 @@
-# Getting Started with Create React App
 
-
-TEN Clone
+React Calculator
 =========
-Hosted at [https://ten-clone.netlify.app/](https://ten-clone.netlify.app/)
-
-This is clone the official website of [The Entrepreneurship Network](https://www.entrepreneurshipnetwork.net/)
+Hosted at [https://react-calculator-tarsh.netlify.app/](https://react-calculator-tarsh.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-It uses React.js for frontend user interface in which and commonly uses useState and useEffect hooks.
-
-Context API + useReducer hook is used for central state management to avoid prop drilling.
+It uses React.js for frontend user interface and commonly uses useState hook.
 
 CSS is used for styling.
 
@@ -22,3 +16,8 @@ How to install and run
 2.  Make sure you have nodejs installed on your computer
 3.  After cloning the repository open it in terminal and run command  ``` npm install ```
 4.  After previous step has completed installing all dependencies run command ``` npm start ```
+
+Functionality
+-------------
+
+It works like android calculators in which the value is calculated continuously after adding a operator.
